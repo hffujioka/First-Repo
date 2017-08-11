@@ -1,3 +1,12 @@
-body {
-  background-color: black;
+#one {
+  width: 50%;
+  height: 25%;
+  background-color: blue;
+  float: left;
+}
+#two {
+  width: 50%;
+  height: 25%;
+  background-color: red;
+  float: left;
 }
